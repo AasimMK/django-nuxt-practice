@@ -1,0 +1,14 @@
+{
+  "name": "frontend",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "generate": "nuxt generate",
+    "start": "nuxt start"
+  },
+  "dependencies": {
+    "create-nuxt-app": "^3.6.0",
+    "nuxt": "^2.15.3",
+    "resolve-url": "^0.2.1"
+  }
+}
